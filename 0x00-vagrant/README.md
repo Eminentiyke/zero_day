@@ -1,0 +1,1 @@
+vagrant task is cool
